@@ -8,7 +8,6 @@ def test_function(entry):
 	print("This is the entry:", entry)
 
 # api.openweathermap.org/data/2.5/forecast?q={city name},{country code}
-# a4aa5e3d83ffefaba8c00284de6ef7c3
 
 def format_response(weather):
 	try:
